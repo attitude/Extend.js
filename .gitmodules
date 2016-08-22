@@ -1,0 +1,3 @@
+[submodule "requestAnimationFrame"]
+	path = requestAnimationFrame
+	url = git@github.com:darius/requestAnimationFrame.git
